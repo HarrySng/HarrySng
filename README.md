@@ -10,6 +10,6 @@
 
 ## Bio
 Currently building ML/AI solutions in the Maritime intelligence domain.   
-Previous work includes working at the intersection of climate science and risk management to help communities build resilience, adapt, and mitigate against current and future effects of climate change. I have an undergrad in Civil engineering, followed by a 2+year stint as a consultant in the tech sector. Moved on to studying extreme weather across Canada in grad school followed by 1.5 years of deep ocean data collection and management. Now, I am back in the role of a consultant, but this time in the climate sector.
+Previous work includes working at the intersection of climate science and risk management to help communities build resilience, adapt, and mitigate against current and future effects of climate change. I have an undergrad in Civil engineering, followed by a 2+year stint as a consultant in the tech sector. Moved on to studying extreme weather across Canada in grad school followed by 1.5 years of deep ocean data collection and management.
 
 I am a big proponent of open source and open science and try my best to contribute to these efforts in any way possible.
