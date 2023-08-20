@@ -1,7 +1,5 @@
 # Harry Singh
 
-## MESc, Sr. Data Scientist
-
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-7958-2191&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-7958-2191)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.ca/citations?user=NTTSPNgAAAAJ&hl=en&oi=ao)
